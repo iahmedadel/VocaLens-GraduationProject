@@ -1,0 +1,42 @@
+
+Showing Recent Errors Only
+fatalError
+
+
+SDWebImageSwiftUI
+
+Creating working copy
+The source control operation was cancelled
+
+
+Moya
+
+Creating working copy
+The source control operation was cancelled
+
+
+SDWebImage
+
+The source control operation was cancelled
+
+
+ReactiveSwift
+
+Creating working copy
+The source control operation was cancelled
+
+
+RxSwift
+
+Creating working copy
+The source control operation was cancelled
+
+
+Alamofire
+
+Creating working copy
+The source control operation was cancelled
+
+
+
+Resolving Package Graph Failed    28/02/2025, 1:29 PM    3767.1 seconds

@@ -1,0 +1,71 @@
+/* Settings */
+"Settings" = "الإعدادات";
+"Appearance" = "المظهر";
+"Language" = "اللغة";
+"Profile" = "الملف الشخصي";
+"Contact Us" = "اتصل بنا";
+"Log Out" = "تسجيل الخروج";
+"Version" = "الإصدار";
+"Powered by" = "مدعوم بواسطة";
+
+/* Tab Bar */
+"Home" = "الرئيسية";
+"Chat" = "المحادثة";
+"Favorites" = "المفضلة";
+"Settings" = "الإعدادات";
+
+/* Home */
+"Welcome Back" = "مرحباً بعودتك";
+"You Can Now Customize Your Vocalens!" = "يمكنك الآن تخصيص VocaLens!";
+"Translate English to Arabic" = "ترجمة من الإنجليزية إلى العربية";
+"Language of Text" = "لغة النص";
+"Font Color" = "لون الخط";
+"Font Size of Text" = "حجم الخط";
+"Volume of Voice" = "مستوى الصوت";
+
+/* Chat */
+"Conversations History" = "سجل المحادثات";
+"Type a message..." = "اكتب رسالة...";
+"Saved Successfully" = "تم الحفظ بنجاح";
+"Your Favorite Chat Are Saved Successfully" = "تم حفظ المحادثة المفضلة بنجاح";
+"Ok" = "موافق";
+"Save as Favorite Chat" = "حفظ كمحادثة مفضلة";
+"Enter favorite chat name" = "أدخل اسم المحادثة المفضلة";
+"Select an icon from Gallery" = "اختر أيقونة من المعرض";
+"Save" = "حفظ";
+"Cancel" = "إلغاء";
+"This is a bot response" = "هذه استجابة من البوت";
+
+/* Profile */
+"Date Of Birth" = "تاريخ الميلاد";
+"Country" = "البلد";
+"Address" = "العنوان";
+"Phone Number" = "رقم الهاتف";
+"Email" = "البريد الإلكتروني";
+"Password" = "كلمة المرور";
+"Edit" = "تعديل";
+"Save" = "حفظ";
+"Profile Update" = "تحديث الملف الشخصي";
+"Profile updated successfully!" = "تم تحديث الملف الشخصي بنجاح!";
+"OK" = "موافق";
+"Enter" = "أدخل";
+
+/* Onboarding */
+"Skip" = "تخطي";
+"No words are lost, no signs unseen, VocaLens keeps the pathway clean." = "لا كلمات ضائعة، ولا إشارات غير مرئية، VocaLens يحافظ على المسار نظيفاً.";
+"You express, we translate, VocaLens makes communication seamless and great." = "أنت تعبر، ونحن نترجم، VocaLens يجعل التواصل سلساً ورائعاً.";
+"Words in the air, now on display, Smart glasses light up what you say." = "الكلمات في الهواء، الآن على الشاشة، النظارات الذكية تضيء ما تقوله.";
+"What you say becomes a line, On these lenses, clear and fine." = "ما تقوله يصبح سطراً، على هذه العدسات، واضحاً وجميلاً.";
+"From silent hands to words that flow, gloves make communication glow." = "من الأيدي الصامتة إلى الكلمات المتدفقة، القفازات تجعل التواصل يتوهج.";
+"Sign in the air, hear it loud, Smart gloves speak your message proud." = "اشارة في الهواء، اسمعها بصوت عالٍ، القفازات الذكية تنطق رسالتك بفخر.";
+
+/* Registration */
+"Welcome To VocaLens App!" = "مرحباً بك في تطبيق VocaLens!";
+"First Name" = "الاسم الأول";
+"Last Name" = "الاسم الأخير";
+"Email" = "البريد الإلكتروني";
+"Phone Number" = "رقم الهاتف";
+"Password" = "كلمة المرور";
+"Confirm Password" = "تأكيد كلمة المرور";
+"Sign Up" = "إنشاء حساب";
+"Already have an account? Sign In" = "لديك حساب بالفعل؟ تسجيل الدخول"; 

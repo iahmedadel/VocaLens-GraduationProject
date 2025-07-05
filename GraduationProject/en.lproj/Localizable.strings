@@ -1,0 +1,71 @@
+/* Settings */
+"Settings" = "Settings";
+"Appearance" = "Appearance";
+"Language" = "Language";
+"Profile" = "Profile";
+"Contact Us" = "Contact Us";
+"Log Out" = "Log Out";
+"Version" = "Version";
+"Powered by" = "Powered by";
+
+/* Tab Bar */
+"Home" = "Home";
+"Chat" = "Chat";
+"Favorites" = "Favorites";
+"Settings" = "Settings";
+
+/* Home */
+"Welcome Back" = "Welcome Back";
+"You Can Now Customize Your Vocalens!" = "You Can Now Customize Your Vocalens!";
+"Translate English to Arabic" = "Translate English to Arabic";
+"Language of Text" = "Language of Text";
+"Font Color" = "Font Color";
+"Font Size of Text" = "Font Size of Text";
+"Volume of Voice" = "Volume of Voice";
+
+/* Chat */
+"Conversations History" = "Conversations History";
+"Type a message..." = "Type a message...";
+"Saved Successfully" = "Saved Successfully";
+"Your Favorite Chat Are Saved Successfully" = "Your Favorite Chat Are Saved Successfully";
+"Ok" = "Ok";
+"Save as Favorite Chat" = "Save as Favorite Chat";
+"Enter favorite chat name" = "Enter favorite chat name";
+"Select an icon from Gallery" = "Select an icon from Gallery";
+"Save" = "Save";
+"Cancel" = "Cancel";
+"This is a bot response" = "This is a bot response";
+
+/* Profile */
+"Date Of Birth" = "Date Of Birth";
+"Country" = "Country";
+"Address" = "Address";
+"Phone Number" = "Phone Number";
+"Email" = "Email";
+"Password" = "Password";
+"Edit" = "Edit";
+"Save" = "Save";
+"Profile Update" = "Profile Update";
+"Profile updated successfully!" = "Profile updated successfully!";
+"OK" = "OK";
+"Enter" = "Enter";
+
+/* Onboarding */
+"Skip" = "Skip";
+"No words are lost, no signs unseen, VocaLens keeps the pathway clean." = "No words are lost, no signs unseen, VocaLens keeps the pathway clean.";
+"You express, we translate, VocaLens makes communication seamless and great." = "You express, we translate, VocaLens makes communication seamless and great.";
+"Words in the air, now on display, Smart glasses light up what you say." = "Words in the air, now on display, Smart glasses light up what you say.";
+"What you say becomes a line, On these lenses, clear and fine." = "What you say becomes a line, On these lenses, clear and fine.";
+"From silent hands to words that flow, gloves make communication glow." = "From silent hands to words that flow, gloves make communication glow.";
+"Sign in the air, hear it loud, Smart gloves speak your message proud." = "Sign in the air, hear it loud, Smart gloves speak your message proud.";
+
+/* Registration */
+"Welcome To VocaLens App!" = "Welcome To VocaLens App!";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"Email" = "Email";
+"Phone Number" = "Phone Number";
+"Password" = "Password";
+"Confirm Password" = "Confirm Password";
+"Sign Up" = "Sign Up";
+"Already have an account? Sign In" = "Already have an account? Sign In"; 
