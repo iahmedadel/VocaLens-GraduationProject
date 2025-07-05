@@ -56,14 +56,6 @@ VocaLens is an innovative iOS voice assistant application designed to help users
 
 ```
 GraduationProject/
-├── ar.lproj/
-│   └── Localizable.strings
-├── en.lproj/
-│   └── Localizable.strings
-├── ContentView.swift
-├── GraduationProjectApp.swift
-├── Info.plist
-├── VocaLensApp.swift
 ├── Custom TextField/
 │   └── Toggles.swift
 ├── Data Layer/
@@ -72,15 +64,11 @@ GraduationProject/
 │   ├── Dark-Light.swift
 │   ├── HexaColors.swift
 │   ├── LocalizationManager.swift
-│   └── Resolve Packages_2025-02-28T12-26-42.txt
 ├── Models/
 │   └── ChatModels.swift
 ├── Network Manager /
 │   ├── Apis.swift
 │   └── Network .swift
-├── Preview Content/
-│   └── Preview Assets.xcassets/
-│       └── Contents.json
 ├── Registration/
 │   ├── Login/
 │   │   ├── Auth Login/
@@ -109,43 +97,6 @@ GraduationProject/
 │       ├── SignUpModel.swift
 │       ├── SignUpScreen.swift
 │       └── SignUpViewModel.swift
-├── Resourses/
-│   └── Assets.xcassets/
-│       ├── AccentColor.colorset/
-│       │   └── Contents.json
-│       ├── AppIcon.appiconset/
-│       │   ├── Contents.json
-│       │   └── Screenshot 2025-02-17 at 8.53.06 PM.png
-│       ├── Colors/
-│       │   ├── backGroundtxtField.colorset/
-│       │   ├── borderCellColor.colorset/
-│       │   ├── ButtonColor.colorset/
-│       │   ├── cellColor.colorset/
-│       │   ├── Color.colorset/
-│       │   ├── Color1.colorset/
-│       │   ├── Color_main.colorset/
-│       │   ├── darkcolor.colorset/
-│       │   ├── gray.imageset/
-│       │   ├── LabelColor.colorset/
-│       │   ├── labelColor2.colorset/
-│       │   ├── LaunchScreenColor.colorset/
-│       │   ├── LaunchSpeedoColor.colorset/
-│       │   ├── mainColorScreen.colorset/
-│       │   ├── MoreBGColor.colorset/
-│       │   ├── OTPborderColor.colorset/
-│       │   ├── TextFieldBorderColor.colorset/
-│       │   ├── title2Color.colorset/
-│       │   └── titleColor.colorset/
-│       ├── Onboarding Screens/
-│       │   ├── Glasses/
-│       │   ├── Gloves/
-│       │   ├── OnBoardingCartton/
-│       │   └── Paging Control/
-│       └── Registration Screens/
-│           ├── emailImage.imageset/
-│           ├── eyeImage.imageset/
-│           ├── personImage.imageset/
-│           └── phoneImage.imageset/
 ├── Splash+OnBoarding/
 │   ├── FirstOnBoarding.swift
 │   ├── SecondOnBoarding.swift
@@ -172,8 +123,6 @@ GraduationProject/
 │   └── Setting/
 │       ├── ContactUs.swift
 │       └── Setting.swift
-├── ViewModels/
-│   └── ChatDataViewModel.swift
 ```
 
 <div align="center">
